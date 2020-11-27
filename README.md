@@ -8,7 +8,7 @@ I'm a computer student in France and I don't know what to do with my time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokthoror&layout=compact)
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I don't use Github for professional purposes
 
 <!--
 **Dokthoror/Dokthoror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
