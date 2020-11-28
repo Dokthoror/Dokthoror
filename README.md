@@ -10,12 +10,13 @@ I'm a computer student in France and I don't know what to do with my time.
 
 - ⚡ Fun fact: I don't use Github for professional purposes
 
+- 🔭 I’m currently working on an open-source Discord bot so feel free to play multiplayer mode programming with me ;)
+
 <!--
 **Dokthoror/Dokthoror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
